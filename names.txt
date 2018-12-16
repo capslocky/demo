@@ -1,5 +1,4 @@
 john
-bob
 peter
 ted
 mark
